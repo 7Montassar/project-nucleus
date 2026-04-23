@@ -31,6 +31,16 @@
       "sourceType": "github",
       "computedHash": "36d7a5c86a60a2eb75a5590e16ac5a92a93dc010681ad8c7dbc9d456dc426895"
     },
+    "frontend-design": {
+      "source": "anthropics/skills",
+      "sourceType": "github",
+      "computedHash": "516bd2154eb843a8240e43d5b285229129853114ad7075a5e141e1c08e408c84"
+    },
+    "image-taste-frontend": {
+      "source": "Leonxlnx/taste-skill",
+      "sourceType": "github",
+      "computedHash": "b5d4a607554867de877d7ca0d7433a5c9a544a433b25ad5f292ab41f9a295e92"
+    },
     "impeccable": {
       "source": "pbakaus/impeccable",
       "sourceType": "github",
